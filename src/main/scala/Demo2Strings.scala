@@ -1,4 +1,4 @@
-object Demo2 {
+object Demo2Strings {
   def main(args: Array[String]): Unit = {
     var res = ""
     val x = 20;
