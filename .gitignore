@@ -56,3 +56,4 @@ bin/
 
 # general
 *.class
+.scala-build
