@@ -1,4 +1,6 @@
-object Demo3 {
+package misc
+
+object Demo3LoopNMatch {
   def main(args: Array[String]): Unit = {
     /*
     var x = 0;
